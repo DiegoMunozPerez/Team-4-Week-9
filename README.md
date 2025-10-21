@@ -15,13 +15,13 @@ In this lab you have learned about multiplexers and demultiplexers.
 
 ### In plain English describe the function and use of a multiplexer.
 
-A multiPlexer is used to conveert 4-inputs and two switches allowing us to produce a output. 
+A multiPlexer is used to conveert 4-inputs and two switches allowing us to produce a single output. 
 
 ### In plain English describe the function and use of a demultiplexer.
 
-demultiplexer allows us to take a two input and convert into a 4 outputs.
+Demultiplexer allows us to take a two input and convert into a 4 outputs.
 
 ### What other uses might these circuits have? (Think Shannon’s)
 
-this circuit can be used to make a shannens expansion 
+This circuit can be used to make a shannens expansion by converting a imput into either a zero or a one, reducing it into a shannons expantion.
 
